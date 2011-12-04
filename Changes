@@ -5,6 +5,11 @@ Created:      2011-11-05
 Home page:    <https://metacpan.org/release/authority>
 Bug tracker:  <http://rt.cpan.org/Dist/Display.html?Queue=authority>
 
+0.004  2011-12-04
+
+ - (Bugfix Packaging) Note dependency on Object::AUTHORITY.
+ - (Bugfix Packaging) Note dependency on UNIVERSAL::AUTHORITY::Lexical.
+
 0.003  2011-12-03
 
  - (Bugfix Packaging) Upgrade Module::Package::RDF.

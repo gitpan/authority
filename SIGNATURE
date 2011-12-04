@@ -14,10 +14,10 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 17f7aa8c519546147881ac1e12eadbe5b70eb7c9 Changes
+SHA1 6ebb3cbd47ecffe73a775af81ac26ce13596ada4 Changes
 SHA1 f3296a09eb07898f3ba6dd0ece615dafc1b57e16 LICENSE
 SHA1 e88c7647deb22c36d3fd43dbb61b8dbbaf360f2d MANIFEST
-SHA1 95fc5cb2282710ad008875b86932bc6b38bfc178 META.yml
+SHA1 baad2c4325e41b52dcbf108056889806be18d5f6 META.yml
 SHA1 80519f46cf4d005b59c73d680d3f90aef176d9bd Makefile.PL
 SHA1 dda0dfb7e42f4f0d92055a9a10120a05b4f35d6e README
 SHA1 607bb704ee0a4fbda19880ccf8138c9f66ba622e examples/moose-example.pl
@@ -40,17 +40,17 @@ SHA1 6b807287940754cc31a3db59f2b22e363d5525be inc/Module/Package/Dist/RDF.pm
 SHA1 775bd24f2fdbb6dce51a8b5b0cdb01fccfce83c4 inc/Scalar/Util.pm
 SHA1 b1b664983568bf822c327599eb88e223483ae96a inc/Scalar/Util/PP.pm
 SHA1 eef6bff62046bff2ce08ba132d0b58fba30f40b4 inc/YAML/Tiny.pm
-SHA1 be14da66d8fb1990a284fec6f832990a644db4ee lib/authority.pm
-SHA1 51e3744ed03d8c58b43f4dce6ee8f2fac7c70102 meta/changes.ttl
+SHA1 e8f4c7262d31e855f4b3bcca9d219254b5a4687f lib/authority.pm
+SHA1 df1d7399c50004100f3ed9cfaa50165f72df9193 meta/changes.ttl
 SHA1 4164a4795969eb6ccf02ec668f29a6137e693449 meta/doap.ttl
-SHA1 a00331ec71d9fec0020d813cdc167aa9e7181fbf meta/makefile.ttl
+SHA1 b3358e7506a99267283ddfb39bbe0fa298c2dce4 meta/makefile.ttl
 SHA1 6d279c51aa62acabdc5be85a5143cd5fca56a19b t/01success.t
 SHA1 bab494b1d3da681165b3c1cc237bf9d1cd21d9e6 t/02failure.t
 SHA1 038d37e6a6169cdb04353313a58d948c1e00e271 t/Local/TestModule.pm
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.10 (GNU/Linux)
 
-iEYEARECAAYFAk7aIRgACgkQzr+BKGoqfTnk5wCguHgXNLQZKJ7uW4KDmG0IYdY/
-rO4An1+uhDjRAOIRmO8fi0XG11qsCOc3
-=bTaA
+iEYEARECAAYFAk7a2R0ACgkQzr+BKGoqfTmxigCdFWbjPEhhgIGzxEdFDQjuokqs
+V8EAnikpUHzHm45tLRA9rolLQFz9gDz4
+=oO+7
 -----END PGP SIGNATURE-----
