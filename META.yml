@@ -2,35 +2,40 @@
 abstract: 'loads a module only if it has a particular authority'
 author:
   - 'Toby Inkster <tobyink@cpan.org>'
+  - 'TOBYINK <tobyink@cpan.org>'
 build_requires:
-  ExtUtils::MakeMaker: 6.42
-  Test::More: 0.61
+  Test::More: '0.61'
 configure_requires:
-  ExtUtils::MakeMaker: 6.42
-distribution_type: module
-generated_by: 'Module::Install version 1.02'
+  ExtUtils::MakeMaker: '6.17'
+dynamic_config: 0
+generated_by: 'Moose::Meta::Class::__ANON__::SERIAL::7 version , CPAN::Meta::Converter version 2.140640'
 keywords: []
 license: perl
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
-  version: 1.4
-module_name: authority
+  version: '1.4'
 name: authority
 no_index:
   directory:
+    - eg
     - examples
     - inc
     - t
     - xt
+optional_features: {}
+provides:
+  authority:
+    file: lib/authority.pm
+    version: '0.005'
 requires:
-  Carp: 1.0
-  File::Spec: 0.6
-  Object::AUTHORITY: 0
-  UNIVERSAL::AUTHORITY::Lexical: 0
-  perl: 5.6.0
+  Carp: '1.0'
+  File::Spec: '0.6'
+  Object::AUTHORITY: '0'
+  UNIVERSAL::AUTHORITY::Lexical: '0'
 resources:
+  X_identifier: http://purl.org/NET/cpan-uri/dist/authority/project
   bugtracker: http://rt.cpan.org/Dist/Display.html?Queue=authority
   homepage: https://metacpan.org/release/authority
   license: http://dev.perl.org/licenses/
-  repository: https://bitbucket.org/tobyink/p5-authority
-version: 0.004
+  repository: git://github.com/tobyink/p5-authority.git
+version: '0.005'
